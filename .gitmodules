@@ -9,7 +9,7 @@
 	url = git://github.com/castleproject/Castle.Components.Binder.git
 [submodule "Castle.Components.Scheduler"]
 	path = Castle.Components.Scheduler
-	url = git@github.com:martinernst/Castle.Components.Scheduler.git
+	url = git://github.com/martinernst/Castle.Components.Scheduler.git
 [submodule "Castle.Components.Validator"]
 	path = Castle.Components.Validator
 	url = git://github.com/castleproject/Castle.Components.Validator.git
@@ -24,13 +24,13 @@
 	url = git://github.com/castleproject/Castle.Facilities.NHibernateIntegration.git
 [submodule "Castle.MonoRail"]
 	path = Castle.MonoRail
-	url = git@github.com:martinernst/Castle.MonoRail.git
+	url = git://github.com/martinernst/Castle.MonoRail.git
 [submodule "Castle.Services.Transaction"]
 	path = Castle.Services.Transaction
 	url = git://github.com/castleproject/Castle.Services.Transaction.git
 [submodule "Castle.Windsor"]
 	path = Castle.Windsor
-	url = git@github.com:martinernst/Castle.Windsor.git
+	url = git://github.com/martinernst/Castle.Windsor.git
 [submodule "fluent-nhibernate"]
 	path = fluent-nhibernate
 	url = git://github.com/jagregory/fluent-nhibernate.git
@@ -39,13 +39,13 @@
 	url = git://github.com/JamesKovacs/nhibernate.git
 [submodule "NHibernate.Caches"]
 	path = NHibernate.Caches
-	url = git@github.com:martinernst/NHibernate.Caches.git
+	url = git://github.com/martinernst/NHibernate.Caches.git
 [submodule "NHibernate.Mapping.Attributes"]
 	path = NHibernate.Mapping.Attributes
-	url = git@github.com:martinernst/NHibernate.Mapping.Attributes.git
+	url = git://github.com/martinernst/NHibernate.Mapping.Attributes.git
 [submodule "NHibernate.Search"]
 	path = NHibernate.Search
-	url = https://nhcontrib.svn.sourceforge.net/svnroot/nhcontrib/trunk/src/NHibernate.Search
+	url = git://github.com/martinernst/NHibernate.Search.git
 [submodule "NServiceBus"]
 	path = NServiceBus
 	url = git@github.com:martinernst/NServiceBus.git
